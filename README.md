@@ -6,9 +6,18 @@
 - 🌱 Я сейчас учусь в __Яндекс.Практикум__ на факультете [Веб-разработчика](https://practicum.yandex.ru/profile/web/)
 - 🔭 Сейчас я работаю над учебным проектом [Место](https://valeryavdeev.github.io/mesto/)
 - 📫 Как со мной связаться:
-  <br />
-  [<img align="left" alt="AvdeevValery | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
-  <br />
+<br/>
+[Telegram](https://t.me/Valery_Avdeev)
+<br/>
+[vkavdeev@gmail.com](vkavdeev@gmail.com)
+  <br/>
+mob.: +7 916 206 1881
+
+[comment]: <> (  <br />)
+
+[comment]: <> (  [<img align="left" alt="AvdeevValery | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram])
+
+[comment]: <> (  <br />)
 
 ### ⚡ Мои навыки:
 
